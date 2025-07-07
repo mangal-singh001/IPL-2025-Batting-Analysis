@@ -57,7 +57,7 @@ To perform an in-depth **exploratory data analysis (EDA)** of IPL 2025 batting d
 
 🔗 Connect with Me
 
-GitHub: mangal-singh001
+GitHub: https://github.com/mangal-singh001
 LinkedIn: https://www.linkedin.com/in/mangal-singh123/
 
 ✍️ Feel free to fork this repo or suggest improvements!
